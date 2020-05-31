@@ -24,6 +24,7 @@ interests:
 - Résolution d'équations aux dérivées partielles
 - Support numérique à la recherche
 - Mécanique de fluides et phénomènes de transfert
+- Analyse de données
 
 education:
   courses:
@@ -67,10 +68,10 @@ user_groups:
 - Visitors
 ---
 
-Diplômé d'une thèse et provenant d'une école d'ingénieur (spécialité génie des procédés industriel), j'ai développé une série d'expertise autour des outils numériques. Ma spécialité principale est la résolution de modèles physiques décrites via des équations aux dérivées partielles (EDP), partculièrement celles décrivant les écoulement à surface libre (type équation de Saint-Venant) couplé avec du transfert de chaleur.
+Diplômé d'une thèse et provenant d'une école d'ingénieur (spécialité génie des procédés industriel), j'ai développé une série d'expertise autour des outils numériques. Ma spécialité principale est la résolution de modèles physiques décrites via des équations aux dérivées partielles (EDP), particulièrement celles décrivant les écoulements à surface libre (type équation de Saint-Venant) couplé avec du transfert de chaleur.
 
-J'ai également développé avec le temps une véritable expertise dans le développement d'outils numériques destinés aux scientifiques (voir mes différents projets) : outil d'aide à la résolution d'EDP, analyse de séries temporelles (particulièrement données provenant d'habitats instrumentés), acquisition de données expérimentales, visualisation scientifique...
+J'ai également développé avec le temps une véritable expertise dans le développement d'outils numériques destinés aux scientifiques (voir mes différents projets): outil d'aide à la résolution d'EDP, analyse de séries temporelles (particulièrement données provenant d'habitats instrumentés), acquisition de données expérimentales, visualisation scientifique...
 
-Si je suis capable de développer avec des outils bas niveau, j'affectionne particulièrement le langage Python que je pratique depuis plusieurs années. J'ai également commencé à développer des compétence en Julia dans l'optique de développer rapidement des solveurs numériques performants capable d'utiliser au mieux es capacités des machines de calcul et permettant de travailler sur le GPU.
+Si je suis capable de développer avec des outils bas niveau, j'affectionne particulièrement le langage Python que je pratique depuis plusieurs années. J'ai également commencé à développer des compétences en Julia dans l'optique de développer rapidement des solveurs numériques performants capable d'utiliser au mieux es capacités des machines de calcul et permettant de travailler sur le GPU.
 
 En plus de mes activités de recherche, j'ai une activité indépendante de consultance, sous-traitance et formation sur les outils numériques pour résoudre des problématiques scientifiques et d'ingénierie.
